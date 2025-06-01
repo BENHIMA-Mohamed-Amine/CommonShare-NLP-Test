@@ -6,6 +6,9 @@
 
 ---
 
+[![Open the notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QwPhhWu25rzze4BEUcrv5qtR02U3SsGF#scrollTo=Usalmh189VmU)
+
+
 ## Contents
 
 - I. Sentiment Analysis  
